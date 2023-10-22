@@ -20,13 +20,13 @@
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dark" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=dark" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dracula" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=dracula" />
 </p>
 
 <p align="left">
 <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=dracula"
         alt="ritavkashyap123" /></p>
 
 ## Technologies
