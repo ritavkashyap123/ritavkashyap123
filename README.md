@@ -101,9 +101,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-<p><img align="left"
+<img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=dracula"
-        alt="ritavkashyap123" /></p>
+        alt="ritavkashyap123" />
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
