@@ -20,8 +20,8 @@
 
 <p align="center">
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dracula" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=dracula" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dark" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=dark" />
 </p>
 
 <p align="left">
