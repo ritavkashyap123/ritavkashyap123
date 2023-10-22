@@ -24,7 +24,7 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
 <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=dracula"
         alt="ritavkashyap123" /></p>
