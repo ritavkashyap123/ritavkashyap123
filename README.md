@@ -6,14 +6,13 @@
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 
-- An Open source and coding enthusiast
-- Interested in Competitive Coding, Web Dev
-- Interested in Competitive Robotics too
-- Pursuing B.Tech from Assam Engineering College 
+- An Professional UI/UX and Frontend Developer
+- Interested in Competitive Robotics and 3D designing too
+- Have a little knowledge of WordPress & SEO
+- Pursuing B.Tech in ETE from Assam Engineering College 
 - Passionate about building and developing new things
 - Currently learning everything
-- Looking to collaborate with other content creators
-- Fun fact: I am addicted to Chess ♟️ 
+- Fun fact: I am addicted to Coffee ☕ & Chess ♟️ 
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
