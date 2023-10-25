@@ -32,7 +32,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-//![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ### Front-end Development :
@@ -41,12 +40,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-
-//### Back-end Development :
-
-//![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-//![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 
@@ -59,7 +52,7 @@
 ### No-code Frontend :
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Wix](https://img.shields.io/badge/WixSite-000?style=for-the-badge&logo=wix&logoColor=white)
+![WixSite](https://img.shields.io/badge/WixSite-000?style=for-the-badge&logo=wix&logoColor=white)
 
 
 ### Database :
