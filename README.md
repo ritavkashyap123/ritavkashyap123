@@ -16,7 +16,7 @@
 - Fun fact: I am addicted to Coffee ☕ & Chess ♟️ 
 
 ## Github Status
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dark&row=1&margin-w=15" alt="Ritchan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" />
