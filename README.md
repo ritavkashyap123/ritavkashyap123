@@ -5,7 +5,7 @@
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
-[![](https://visitcount.itsvg.in/api?id=Zorochan404&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - An Professional UI/UX and Frontend Developer
 - Interested in Competitive Robotics and 3D designing too
