@@ -22,8 +22,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
 
 ## Technologies
 
