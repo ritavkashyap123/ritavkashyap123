@@ -19,7 +19,7 @@
 
 <p align="center">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dracula" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="left">
