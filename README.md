@@ -25,7 +25,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&layout=normal&langs_count=20&card_width=100%" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&layout=normal&langs_count=20&card_width=500" />
 </a>
 
 ## Technologies
