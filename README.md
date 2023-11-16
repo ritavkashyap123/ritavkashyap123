@@ -6,8 +6,9 @@
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
-<div width="50%">
-  <ul>
+
+
+<ul>
 <li> An Professional UI/UX and Frontend Developer</li>
 <li> Interested in Competitive Robotics and 3D designing too</li>
 <li> Have a little knowledge of WordPress & SEO</li>
@@ -15,9 +16,10 @@
 <li> Passionate about building and developing new things</li>
 <li> Currently learning everything</li>
 <li> Fun fact: I am addicted to Coffee ☕ & Chess ♟️ </li>
-    </ul>
-</div>
-<p align="center"><img width="45%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffixing-computer&psig=AOvVaw0NyagqkerVS4gNDQHhr5gy&ust=1700236804398000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCQ-OfxyIIDFQAAAAAdAAAAABAE"></p>
+</ul>
+
+<img src="https://ibb.co/N3LDFQc" />
+
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 
