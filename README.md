@@ -20,16 +20,16 @@
 </p>
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
-
-<p align="center">
+<p>
+<p align="left">
 <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
 <img width="51%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<p align="right">
 <img width="49.5%" src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd"/>
-</p>
+</p></p>
 
 ## Technologies
 
