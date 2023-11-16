@@ -17,7 +17,6 @@
 <li> Currently learning everything</li>
 <li> Fun fact: I am addicted to Coffee ☕ & Chess ♟️ </li>
 </ul>
-<p><img width="49.5%" src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd"/></p>
 </p>
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
@@ -27,7 +26,10 @@
 <img width="51%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img width="49.5%" src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd"/>
+</p>
 
 ## Technologies
 
