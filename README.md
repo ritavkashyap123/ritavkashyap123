@@ -8,19 +8,22 @@
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <p width="50%">
-<ul>
-<li> An Professional UI/UX and Frontend Developer</li>
-<li> Interested in Competitive Robotics and 3D designing too</li>
-<li> Have a little knowledge of WordPress & SEO</li>
-<li> Pursuing B.Tech in ETE from Assam Engineering College </li>
-<li> Passionate about building and developing new things</li>
-<li> Currently learning everything</li>
-<li> Fun fact: I am addicted to Coffee ☕ & Chess ♟️ </li>
-</ul>
+  <div style="width:'50%'; float:'left';">
+    <ul>
+      <li>Professional UI/UX and Frontend Developer</li>
+      <li>Interested in Competitive Robotics and 3D designing too</li>
+      <li>Have a little knowledge of WordPress & SEO</li>
+      <li>Pursuing B.Tech in ETE from Assam Engineering College</li>
+      <li>Passionate about building and developing new things</li>
+      <li>Currently learning everything</li>
+      <li>Fun fact: I am addicted to Coffee ☕ & Chess ♟️</li>
+    </ul>
+  </div>
+  <div style="width:'40%'; float:'right';">
+    <img src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd" width="100%">
+  </div>
 </p>
-<img width="40%" src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd"/>
-</p>
+
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 <p>
