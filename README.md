@@ -20,7 +20,7 @@
 
 <p align="center">
 <img width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
-<img width="55%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
+<img width="54%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
