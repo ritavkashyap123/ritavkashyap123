@@ -24,6 +24,7 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
+<p>[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritavkashyap123)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ## Technologies
 
