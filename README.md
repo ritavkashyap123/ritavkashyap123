@@ -18,7 +18,7 @@
 <li> Fun fact: I am addicted to Coffee ☕ & Chess ♟️ </li>
 </ul>
 
-<img src="https://ibb.co/N3LDFQc" />
+<p><img width="100%" src="https://ibb.co/N3LDFQc" /></p>
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
