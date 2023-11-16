@@ -24,17 +24,6 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true" />
-</picture>
 
 ## Technologies
 
