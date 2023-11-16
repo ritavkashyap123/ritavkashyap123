@@ -7,13 +7,15 @@
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
 <p width="50%">
-- An Professional UI/UX and Frontend Developer
-- Interested in Competitive Robotics and 3D designing too
-- Have a little knowledge of WordPress & SEO
-- Pursuing B.Tech in ETE from Assam Engineering College 
-- Passionate about building and developing new things
-- Currently learning everything
-- Fun fact: I am addicted to Coffee ☕ & Chess ♟️ 
+  <ul>
+<li> An Professional UI/UX and Frontend Developer</li>
+<li> Interested in Competitive Robotics and 3D designing too</li>
+<li> Have a little knowledge of WordPress & SEO</li>
+<li> Pursuing B.Tech in ETE from Assam Engineering College </li>
+<li> Passionate about building and developing new things</li>
+<li> Currently learning everything</li>
+<li> Fun fact: I am addicted to Coffee ☕ & Chess ♟️ </li>
+    </ul>
 </p>
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
