@@ -24,7 +24,9 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" /></p>
-<p>[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritavkashyap123)](https://github.com/anuraghazra/github-readme-stats)</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Technologies
 
