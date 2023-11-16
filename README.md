@@ -20,7 +20,7 @@
     </ul>
   </div>
   <div style="width:'40%'; float:'right';">
-    <img src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd" width="100%">
+    <img width='40%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd" width="100%">
   </div>
 </p>
 
