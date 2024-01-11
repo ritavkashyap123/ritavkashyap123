@@ -6,6 +6,7 @@
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/018ddc26-16ed-4091-90c1-c418b84e6e32/deploy-status)](https://app.netlify.com/sites/frint-winternship-form/deploys)
 
 <div>
   <div>
