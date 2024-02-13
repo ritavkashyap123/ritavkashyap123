@@ -6,7 +6,6 @@
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/018ddc26-16ed-4091-90c1-c418b84e6e32/deploy-status)](https://app.netlify.com/sites/frint-winternship-form/deploys)
 
 <div>
   <div>
@@ -31,7 +30,9 @@
 <p align="left">
 <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
 <img width="51%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img height="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img height="380" src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
+
 </p>
 
 ## Technologies
