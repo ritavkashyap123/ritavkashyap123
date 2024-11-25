@@ -28,11 +28,11 @@
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 <p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
-<img src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
+<p align="center">
+<img width='45%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
+<img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
+<img width='55%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img width='45%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
 
 </p>
 
