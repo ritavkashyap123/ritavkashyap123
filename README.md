@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer and a Robotics enthusiast!!
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 [![](https://visitcount.itsvg.in/api?id=ritavkashyap123&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -10,28 +10,29 @@
 <div>
   <div>
     <ul>
-      <li>Professional UI/UX and Frontend Developer</li>
+      <li>Professional UI/UX and Full-Stack Developer</li>
+      <li>Professional App-developer Developer</li>
       <li>Interested in Competitive Robotics and 3D designing too</li>
       <li>Have a little knowledge of WordPress & SEO</li>
-      <li>Pursuing B.Tech in ETE from Assam Engineering College</li>
+      <li>Completed B.Tech in ETE from Assam Engineering College in 2024</li>
       <li>Passionate about building and developing new things</li>
       <li>Currently learning everything</li>
       <li>Fun fact: I am addicted to Coffee ☕ & Chess ♟️</li>
     </ul>
   </div>
-<!--   <div style="width:'40%'; float:'right';">
+  <div style="width:'40%'; float:'right';">
     <img width='40%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd" width="100%">
-  </div> -->
+  </div>
 </div>
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 <p>
 <p align="left">
-<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
-<img width="51%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
-<img width="38.5%" height="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
-<img width="60.5%" height="380" src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="GitHub States" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
 
 </p>
 
