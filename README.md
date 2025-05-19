@@ -189,4 +189,32 @@ CommQuart             03 months               ███░░░░░░░░�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100vw"/>
 </p>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ritavkashyap123/prescription-reader" title="Prescription Reader">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=prescription-reader&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ritavkashyap123/last-portfolio" title="Portfolio Website">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=last-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ritavkashyap123/special-valentine-wish" title="Valentine Wish">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=special-valentine-wish&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ritavkashyap123/SpArts" title="Dashboard">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=SpArts&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ritavkashyap123/Python-Projects" title="Python Mini Projects">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=Python-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ritavkashyap123/SIH_Blimp" title="SmartIndia Hackathon">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=SIH_Blimp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/ritavkashyap123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
