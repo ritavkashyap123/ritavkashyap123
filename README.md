@@ -10,6 +10,10 @@
 <br>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 ## I'm a Web Developer and a Robotics enthusiast!!
 
 ![age](https://img.shields.io/badge/age-22-blue)
@@ -20,21 +24,25 @@
 <div>
   <div>
     <ul>
-      <li>Professional UI/UX and Full-Stack Developer</li>
-      <li>Professional App-developer Developer</li>
-      <li>Interested in Competitive Robotics and 3D designing too</li>
-      <li>Have a little knowledge of WordPress & SEO</li>
-      <li>Completed B.Tech in ETE from Assam Engineering College in 2024</li>
-      <li>Passionate about building and developing new things</li>
-      <li>Currently learning everything</li>
-      <li>Fun fact: I am addicted to Coffee ☕ & Chess ♟️</li>
+      <li>💻 Professional UI/UX and Full-Stack Developer</li>
+      <li>📱 Professional App Developer</li>
+      <li>🤖 Interested in Competitive Robotics and 🖌️ 3D Designing too</li>
+      <li>🌐 Have a little knowledge of WordPress & SEO</li>
+      <li>🎓 Completed B.Tech in ETE from Assam Engineering College in 2024</li>
+      <li>🚀 Passionate about building and developing new things</li>
+      <li>📚 Currently learning everything</li>
+      <li>☕ Fun fact: I am addicted to Coffee & ♟️ Chess</li>
     </ul>
   </div>
   <div >
-    <img width='35%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd">
-    <img alt="loficity" width='63%' src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
+    <img width='33.7%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd">
+    <img alt="loficity" width='60%' src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
   </div>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
@@ -42,11 +50,31 @@
 <p align="center">
 <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="ritavkashyap1" />
 <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="ritavkashyap12" />
-<img width='36%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+</p>
 <p align="center">
+<img width='39.5%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
 <img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
 </p>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C868%20hrs%204%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
+
+## Work Experience and Efforts
+```text
+💻 Works:             ⌛ Times:               🥵 Efforts:                    
+Eastern Botz          3 years 2 months        ████████████████████████████          37.62 % 
+FRINT                 2 years 3 months        ██████████████████████████████████    26.73 % 
+APU Sensor            11 months               █░░░░░░░░░░░░░░░░░░░░░░░░             10.89 % 
+Ninur                 09 months               █████████░░░░░░░░░░░░░░░░             08.91 % 
+Adamomedia            09 months               ███████░░░░░░░░░░░░░░░░░░             08.91 % 
+ZSEE                  04 months               ████████████████░░░░░░░░░             03.96 % 
+CommQuart             03 months               ███░░░░░░░░░░░░░░░░░░░░░░             02.97 % 
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
 ## Technologies
@@ -148,5 +176,8 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## My Mood
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100vw"/>
+</p>
+
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
