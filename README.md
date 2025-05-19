@@ -212,8 +212,8 @@ CommQuart             03 months               ███░░░░░░░░�
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ritavkashyap123/SIH_Blimp" title="Smart India Hackathon">
-    <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=SIH_Blimp&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/ritavkashyap123/SolidWorks_designs" title="Solidworks Designs">
+    <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=SolidWorks_designs&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/ritavkashyap123/Python-Projects" title="Python Mini Projects">
     <img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ritavkashyap123&repo=Python-Projects&theme=react&border_color=61dafb&border_radius=10">
