@@ -2,13 +2,22 @@
   <img src="https://socialify.git.ci/ritavkashyap123/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap" width='100%' height="400" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Ritav+Here!+👋..;A+Coder...?;A+Developer...?;A+3D+Designer...?;An+IoT+Engineer...?;Let's+Explore;!&center=true&size=28">
+  </a>
+</h1>
+
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/ritav-kashyap/">
-  <img alt="rit's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<br>
+  <a href="https://www.linkedin.com/in/ritav-kashyap/" target="_blank">
+    <img alt="rit's LinkedIn" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/suhrid_kashyap" target="_blank">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" width="40px" alt="Instagram" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
@@ -48,12 +57,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 <p>
 <p align="center">
-<img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="ritavkashyap1" />
-<img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="ritavkashyap12" />
+<img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react" alt="ritavkashyap1" />
+<img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
 </p>
 <p align="center">
-<img width='39.5%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
-<img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
+<img width='39.5%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="ritavkashyap123" />
+<img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=react&combine_all_yearly_contributions=true" />
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
