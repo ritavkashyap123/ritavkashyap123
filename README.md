@@ -1,4 +1,6 @@
-### Hi there, Ritav Kashyap here!
+[![Actions Status](https://github.com/ritavkashyap123/ritavkashyap123/workflows/wakatime-stats/badge.svg)](https://github.com/ritavkashyap123/ritavkashyap123/actions)
+[![Actions Status](https://github.com/ritavkashyap123/ritavkashyap123/workflows/update-gh-activity/badge.svg)](https://github.com/ritavkashyap123/ritavkashyap123/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=ritavkashyap123)
 
 ## I'm a Web Developer and a Robotics enthusiast!!
 
