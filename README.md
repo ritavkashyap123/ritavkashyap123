@@ -1,6 +1,14 @@
-[![Actions Status](https://github.com/ritavkashyap123/ritavkashyap123/workflows/wakatime-stats/badge.svg)](https://github.com/ritavkashyap123/ritavkashyap123/actions)
-[![Actions Status](https://github.com/ritavkashyap123/ritavkashyap123/workflows/update-gh-activity/badge.svg)](https://github.com/ritavkashyap123/ritavkashyap123/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ritavkashyap123)
+<p align="center">
+  <img src="https://socialify.git.ci/ritavkashyap123/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap" width='100%' height="400" />
+</p>
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/ritav-kashyap/">
+  <img alt="rit's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<br>
+</p>
 
 ## I'm a Web Developer and a Robotics enthusiast!!
 
@@ -22,8 +30,9 @@
       <li>Fun fact: I am addicted to Coffee ☕ & Chess ♟️</li>
     </ul>
   </div>
-  <div style="width:'40%'; float:'right';">
-    <img width='40%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd" width="100%">
+  <div >
+    <img width='35%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd">
+    <img alt="loficity" width='63%' src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
   </div>
 </div>
 
@@ -33,8 +42,10 @@
 <p align="center">
 <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=highcontrast" alt="ritavkashyap1" />
 <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=highcontrast" alt="ritavkashyap12" />
-<img width='39.5%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<img width='36%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ritavkashyap123" />
+<p align="center">
 <img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
+</p>
 
 </p>
 
