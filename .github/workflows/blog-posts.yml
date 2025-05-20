@@ -1,9 +1,10 @@
+## 🔧 Updated `.github/workflows/blog-posts.yml`
 name: Update Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'      # Runs every hour
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   update-blog-posts:
@@ -11,15 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update Blog Posts
+      - name: Update Medium Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://your-blog.com/rss"
+          # Use your actual Medium RSS feed URL here:
+          feed_list: "https://medium.com/feed/@ritavkashyap123"
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "ritavkashyap123@gmail.com"
+          git config --local user.name "Ritav Kashyap"
           git add README.md
           git commit -m "Updated blog posts"
           git push
