@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/ritavkashyap123/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap" width='100%' height="400" />
+<img src="https://socialify.git.ci/ritavkashyap123/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap123" width="100%" height="400" />
 </p>
 
 <h1 align="center">
@@ -57,7 +57,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> </p>
 <p>
 <p align="center">
-<img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react" alt="ritavkashyap1" />
+![Ritav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react&include_all_commits=true)
 <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
 </p>
 <p align="center">
