@@ -226,4 +226,6 @@ CommQuart             03 months               ███░░░░░░░░�
   <a href="https://github.com/ritavkashyap123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
