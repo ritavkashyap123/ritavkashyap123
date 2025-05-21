@@ -57,7 +57,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> 
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> 
   
   ![Ritav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react&include_all_commits=true)
   <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
@@ -76,13 +76,13 @@
 ## Work Experience and Efforts
 ```text
 💻 Works:             ⌛ Times:               🥵 Efforts:                    
-Eastern Botz          3 years 2 months        ████████████████████████████          37.62 % 
-FRINT                 2 years 3 months        ██████████████████████████████████    26.73 % 
-APU Sensor            11 months               █░░░░░░░░░░░░░░░░░░░░░░░░             10.89 % 
-Ninur                 09 months               █████████░░░░░░░░░░░░░░░░             08.91 % 
-Adamomedia            09 months               ███████░░░░░░░░░░░░░░░░░░             08.91 % 
-ZSEE                  04 months               ████████████████░░░░░░░░░             03.96 % 
-CommQuart             03 months               ███░░░░░░░░░░░░░░░░░░░░░░             02.97 % 
+Eastern Botz          3 years 2 months        ████████████████████████████          115.02 % 
+FRINT                 2 years 3 months        ██████████████████████████████████    130.69 % 
+APU Sensor            11 months               █░░░░░░░░░░░░░░░░░░░░░░░░               3.14 % 
+Ninur                 09 months               █████████░░░░░░░░░░░░░░░░              27.56 % 
+Adamomedia            09 months               ███████░░░░░░░░░░░░░░░░░░              24.34 % 
+ZSEE                  04 months               ████████████████░░░░░░░░░              67.80 % 
+CommQuart             03 months               ███░░░░░░░░░░░░░░░░░░░░░░              14.26 % 
 ```
 
 <p align="center">
