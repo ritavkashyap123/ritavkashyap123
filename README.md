@@ -55,8 +55,8 @@
 
 ## Github Status
 <p align="center">
-  <a href="https://github.com/ritavkashyap123/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> 
+  <a href="https://trophy.benkou.dev/?username=ritavkashyap123&theme=dracula">
+  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> 
   </p>
 <p align="center"> 
    <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react&include_all_commits=true" alt="ritavkashyap123" />
