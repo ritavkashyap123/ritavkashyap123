@@ -55,7 +55,7 @@
 
 ## Github Status
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ritavkashyap123/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ritavkashyap123&theme=dracula&row=1&margin-w=15" alt="Ritchan" /></a> 
   </p>
 <p align="center"> 
