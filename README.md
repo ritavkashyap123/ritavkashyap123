@@ -55,11 +55,10 @@
 
 ## Github Status
 <p align="center">
-  <a href="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical">
-  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritchan" /></a> 
+  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritchan" />
   </p>
 <p align="center"> 
-   <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123&show_icons=true&theme=react&include_all_commits=true" alt="ritavkashyap123" />
+  <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123" alt="ritavkashyap123" />
   <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
 </p>
   
