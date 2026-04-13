@@ -53,19 +53,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-## Github Status
+## 🚀 GitHub Status
+
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritchan" />
+  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritav Trophies" />
 </p>
-<p align="center"> 
-  <img width='46%' src="https://our-git-states.vercel.app/api?username=ritavkashyap123" alt="ritavkashyap123" />
-  <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
-</p>
-  
-<p align="center">
-<img width='39.5%' src="https://our-git-states.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="ritavkashyap123" />
-<img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=react&combine_all_yearly_contributions=true" />
-</p>
+
+<table align="center" width="90%">
+<tr>
+<td width="40%">
+  <img width="100%" src="https://our-git-states.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="Ritav Languages" />
+</td>
+
+<td width="50%">
+  <img src="https://our-git-states.vercel.app/api?username=ritavkashyap123&theme=react" alt="Ritav Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="Ritav Streak" />
+</td>
+</tr>
+</table>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
