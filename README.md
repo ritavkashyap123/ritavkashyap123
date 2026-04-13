@@ -56,22 +56,24 @@
 ## Github Status
 <p align="center">
   <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritchan" />
-  </p>
+</p>
 <p align="center"> 
-  <img width='46%' src="https://github-readme-stats.vercel.app/api?username=ritavkashyap123" alt="ritavkashyap123" />
+  <img width='46%' src="https://our-git-states.vercel.app/api?username=ritavkashyap123" alt="ritavkashyap123" />
   <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="ritavkashyap12" />
 </p>
   
 <p align="center">
-<img width='39.5%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="ritavkashyap123" />
+<img width='39.5%' src="https://our-git-states.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="ritavkashyap123" />
 <img width='56%' src="https://github-contributor-stats.vercel.app/api?username=ritavkashyap123&limit=7&theme=react&combine_all_yearly_contributions=true" />
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ritav Kashyap profile views](https://u8views.com/api/v1/github/profiles/79644483/views/day-week-month-total-count.svg)](https://u8views.com/github/ritavkashyap123)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C868%20hrs%204%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
+
 
 ## Work Experience and Efforts
 ```text
