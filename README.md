@@ -81,7 +81,7 @@
   <a href="https://github.com/ritavkashyap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ritav Kashyap profile views](https://u8views.com/api/v1/github/profiles/79644483/views/day-week-month-total-count.svg)](https://u8views.com/github/ritavkashyap123)
 
