@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://socialify.git.ci/ritavkashyap123/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap123" width="100%" height="400" />
+<img src="https://socialify.git.ci/ritavkashyap/ritavkashyap123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ritavkashyap123" width="100%" height="400" />
 </p>
 
 <h1 align="center">
@@ -44,7 +44,7 @@
     </ul>
   </div>
   <div >
-    <img width='33.7%' src="https://github.com/ritavkashyap123/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd">
+    <img width='33.7%' src="https://github.com/ritavkashyap/ritavkashyap123/assets/79644483/95fbc903-929a-4002-9cfb-78b740df8acd">
     <img alt="loficity" width='60%' src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
   </div>
 </div>
@@ -56,29 +56,29 @@
 ## 🚀 GitHub Status
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=ritavkashyap123&theme=radical&row=1&margin-w=15" alt="Ritav Trophies" />
+  <img src="https://trophy.benkou.dev/?username=ritavkashyap&theme=radical&row=1&margin-w=15" alt="Ritav Trophies" />
 </p>
 
 <table align="center" width="90%">
 <tr>
 <td width="40%">
-  <img width="100%" src="https://our-git-states.vercel.app/api/top-langs?username=ritavkashyap123&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="Ritav Languages" />
+  <img width="100%" src="https://our-git-states.vercel.app/api/top-langs?username=ritavkashyap&langs_count=16&show_icons=true&locale=en&layout=compact&theme=react" alt="Ritav Languages" />
 </td>
 
 <td width="50%">
-  <img src="https://our-git-states.vercel.app/api?username=ritavkashyap123&theme=react" alt="Ritav Stats" />
+  <img src="https://our-git-states.vercel.app/api?username=ritavkashyap&theme=react" alt="Ritav Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap123&theme=react" alt="Ritav Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritavkashyap&theme=react" alt="Ritav Streak" />
 </td>
 </tr>
 </table>
 
 
 <h2 align="start">👨‍💻 Contributions 👨‍💻</h2>
-<img src="https://raw.githubusercontent.com/ritavkashyap123/ritavkashyap123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ritavkashyap/ritavkashyap123/output/snake.svg" alt="Snake animation" />
 
 <h4 align="center">
-  <a href="https://github.com/ritavkashyap123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/ritavkashyap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritavkashyap123&theme=github-dark-dimmed&custom_title=Ritav's%20Activity%20Graph&hide)](https://github.com/ashutosh00710/github-readme-activity-graph)
